@@ -16,11 +16,11 @@ h5_viewer.py: A local validation script utilizing matplotlib to render the ortho
 
 [1] Earth Resources Observation and Science (EROS) Center, “Landsat 8-9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2 [dataset].” Nov. 09, 2022. doi: 10.5066/P9OGBGM6.
 
-[2] N. S. Chiaratti, "Sub-Pixel Activity Monitoring in Landsat via Temporal Spectral Complexity," To be published 2026.
+[2] N. S. Chiaratti and D. W. Messinger, "Sub-Pixel Activity Monitoring in Landsat via Temporal Spectral Complexity," To be published 2026.
 
 [3] N. Gorelick, M. Hancher, M. Dixon, S. Ilyushchenko, D. Thau, and R. Moore, “Google Earth Engine: Planetary-scale geospatial analysis for everyone,” Remote Sensing of Environment, vol. 202, pp. 18–27, Dec. 2017, doi: 10.1016/j.rse.2017.06.031.
 
-[4] David W. Messinger, Amanda K. Ziemann, Ariel Schlamm, William Basener, "Metrics of spectral image complexity with application to large area search," Opt. Eng. 51(3) 036201 (29 March 2012) https://doi-org.ezproxy.rit.edu/10.1117/1.OE.51.3.036201
+[4] D. W. Messinger, Amanda K. Ziemann, Ariel Schlamm, William Basener, "Metrics of spectral image complexity with application to large area search," Opt. Eng. 51(3) 036201 (29 March 2012) https://doi-org.ezproxy.rit.edu/10.1117/1.OE.51.3.036201
 
 [5] Planet Labs PBC, “Planet Application Program Interface: In Space for Life on Earth.” 2025. [Online]. Available: https://api.planet.com
 
